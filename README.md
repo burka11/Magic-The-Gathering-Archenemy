@@ -13,6 +13,8 @@
 <br><br>For each numbered task there's one point to earn (no halves, so please read carefully).
 </p>
 
+<img src="screenshots/Ekran görüntüsü 2022-06-09 013511.png"></img>
+
 <ul>
 <br><b>Scoring</b>
 <li>4 pts: 3;
