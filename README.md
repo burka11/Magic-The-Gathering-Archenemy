@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<h3> Example Screenshots of application</h3>
+<h3> Example Screenshots of application</h3>:
 
 <img src="screenshots/Ekran görüntüsü 2022-06-09 013511.png"></img> <br> <br>
 
