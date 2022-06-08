@@ -13,7 +13,12 @@
 <br><br>For each numbered task there's one point to earn (no halves, so please read carefully).
 </p>
 
-<img src="screenshots/Ekran görüntüsü 2022-06-09 013511.png"></img>
+<br>
+<h3> Example Screenshots of application</h3>
+
+<img src="screenshots/Ekran görüntüsü 2022-06-09 013511.png"></img> <br> <br>
+
+<img src="screenshots/Ekran görüntüsü 2022-06-09 013423.png"></img> <br>
 
 <ul>
 <br><b>Scoring</b>
