@@ -1,6 +1,6 @@
 # Magic-The-Gathering-Archenemy
 
-<h1>Final Project of Programming Web Application Course</h1>
+<h4>Final Project of Programming Web Application Course</h4>
 
 <p>
 <br><b>Main goal</b>
